@@ -29,7 +29,7 @@ If you'd like to contribute to this repository by adding new programs, improving
 
 1. Fork the repository.
 2. Create a new branch for your changes: `git checkout -b feature/new-program`.
-3. Make your changes and commit them: `git commit -m 'Add new Python program'`.
+3. Make your changes and commit them: `git commit -m 'Added new <topic> program'`.
 4. Push to the branch: `git push origin feature/new-program`.
 5. Submit a pull request.
 
