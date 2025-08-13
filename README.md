@@ -8,7 +8,7 @@
 
  ## Programs
 
-In the `programs` directory, you'll find a collection of simple C++ programs, like:
+Here, in this repository, you'll find a collection of simple C++ programs, like:
 
 - 📘 Classes and objects
 - ✨ Object Oriented Programming Methods
