@@ -1,5 +1,5 @@
 #include <iostream>
-#include "hash.h"
+#include "include/hash.h"
 
 int main() {
     HashMap map;
