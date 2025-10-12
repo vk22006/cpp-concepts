@@ -1,6 +1,6 @@
 # How to compile files for FFI
 
-In this case, we use Python as a frontend and C as a backend. You can use C++ as backend using `extern "C"` to write C-style code. We use the ctypes library in Python, which allows us to incorporate C-style programming into Python. This library gathers information from the .dll file and executes the method in Python.
+Here, we use Python as a frontend and C as a backend. We use the ctypes library in Python, which allows us to bind C-style programming in Python. This is an old-fashioned way of binding C/C++ into Python. This library gathers information from the .dll file and executes the method in Python.
 To do this, follow these steps:
 
 1. Write your C++ code and compile it to create a .dll (Dynamic Link Library); in this case, no need for main()
